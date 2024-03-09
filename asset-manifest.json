@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cours/static/css/main.f246d607.css",
+    "main.js": "/cours/static/js/main.cd0fbf86.js",
+    "static/css/49.7fb09b56.chunk.css": "/cours/static/css/49.7fb09b56.chunk.css",
+    "static/js/49.38b8b90a.chunk.js": "/cours/static/js/49.38b8b90a.chunk.js",
+    "static/js/787.03d95b76.chunk.js": "/cours/static/js/787.03d95b76.chunk.js",
+    "static/media/Whiteboardmini1.svg": "/cours/static/media/Whiteboardmini1.8d5013452dd8a7c721aa802e655c6119.svg",
+    "index.html": "/cours/index.html",
+    "main.f246d607.css.map": "/cours/static/css/main.f246d607.css.map",
+    "main.cd0fbf86.js.map": "/cours/static/js/main.cd0fbf86.js.map",
+    "49.7fb09b56.chunk.css.map": "/cours/static/css/49.7fb09b56.chunk.css.map",
+    "49.38b8b90a.chunk.js.map": "/cours/static/js/49.38b8b90a.chunk.js.map",
+    "787.03d95b76.chunk.js.map": "/cours/static/js/787.03d95b76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f246d607.css",
+    "static/js/main.cd0fbf86.js"
+  ]
+}
